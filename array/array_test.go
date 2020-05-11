@@ -6,8 +6,8 @@ import (
 )
 
 /*
-   @author cuiguangsong
-   @email cuiguangsong@duxiaoman.com
+   @author eric
+   @email 2635863525@qq.com
    @department SIOD DBA GROUP
    @date  2020/4/26 上午09:50
    @since Go1.13.8

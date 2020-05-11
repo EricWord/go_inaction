@@ -1,8 +1,8 @@
 package goroutine
 
 /*
-   @author cuiguangsong
-   @email cuiguangsong@duxiaoman.com
+    @author eric
+   @email 2635863525@qq.com
    @department SIOD DBA GROUP
    @date  2020/5/10 下午15:50
    @since Go1.13.8
